@@ -1,4 +1,6 @@
 ## AIFEP Jun 2020
+## Attendance
+<img src="eAttendance - AIFEP 11 June.png" alt="quiz qr code" width="40%"/>
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
