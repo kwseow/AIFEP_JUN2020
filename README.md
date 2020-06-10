@@ -23,6 +23,12 @@
 + Dialogflow https://dialogflow.com/
 + Clarifai https://www.clarifai.com/
 
+## News
++ AITrends https://www.aitrends.com/
++ AITopics  https://aitopics.org/search
++ Towards Data Science https://towardsdatascience.com/
+
+
 ## Quizes
 + Link to interactive quizes https://bit.ly/kw_poll 
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
